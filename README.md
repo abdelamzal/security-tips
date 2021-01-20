@@ -1,5 +1,5 @@
 # Osint
-google opérateur : 
+Google opérateur : 
 ```
 m.trix
 “Robert Masse”
@@ -37,26 +37,6 @@ allintitle: "index of/root"
 allintitle: sensitive filetype:doc
 allintitle: restricted filetype :mail
 allintitle: restricted filetype:doc site:gov
-inurlasswd filetype:txt
-inurl:admin filetype:db
-inurl:iisadmin
-inurl:"auth_user_file.txt"
-inurl:"wwwroot/*."
-top secret site:mil
-confidential site:mil
-allinurl: winnt/system32/ (get cmd.exe)
-allinurl:/bash_history
-intitle:"Index of" .sh_history
-intitle:"Index of" .bash_history
-intitle:"index of" passwd
-intitle:"index of" people.lst
-intitle:"index of" pwd.db
-intitle:"index of" etc/shadow
-intitle:"index of" spwd
-intitle:"index of" master.passwd
-intitle:"index of" htpasswd
-intitle:"index of" members OR accounts
-intitle:"index of" user_carts OR user_cart
 ```
 
 # NMAP
