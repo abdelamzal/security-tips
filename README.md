@@ -1,3 +1,24 @@
+# Liens :
+
+Clair-scanner :
+- https://github.com/arminc/clair-scanner/blob/master/README.md
+- https://github.com/quay/clair
+- https://chathura-siriwardhana.medium.com/docker-image-security-scan-with-clair-94b766faff3c 
+
+
+GoogleContainerTools :
+- https://github.com/GoogleContainerTools 
+
+Global DDOS attack :
+- https://www.digitalattackmap.com/
+
+Wigle :
+- https://wigle.net/
+
+Shodan :
+- https://www.shodan.io/
+
+
 # Osint
 Google opérateur : 
 ```
